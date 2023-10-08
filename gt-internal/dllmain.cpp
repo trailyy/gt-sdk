@@ -75,7 +75,7 @@ BOOL APIENTRY DllMain(HMODULE module, DWORD reason, LPVOID param)
 
     if (reason == DLL_PROCESS_ATTACH)
     {
-        // fuck createthread, all of my niggas hate createthread
+        // fuck createthread, all of my homies hate createthread
         _beginthreadex(nullptr, NULL, reinterpret_cast<unsigned(__cdecl*)(void*)>(on_inject), param, NULL, nullptr);
 
         // save the module for later
