@@ -1,5 +1,5 @@
 # gt-sdk
-  Base SDK for the game Growtopia
+  Internal cheat framework for the game Growtopia
 
 # Warning
   The base is not up to date with the latest Growtopia version
