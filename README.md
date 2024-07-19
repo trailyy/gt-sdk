@@ -11,7 +11,7 @@ gt-sdk is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 
 
 # Credits
 - [trailyy](https://github.com/trailyy)
-- [voidzero](https://github.com/voidzer0-development)
+- [voidzero](https://github.com/voidzero666)
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
