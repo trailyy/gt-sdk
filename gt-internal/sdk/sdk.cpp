@@ -10,7 +10,6 @@ c_module c_sdk::get_module() const
 
 void c_sdk::initialize()
 {
-
 	/*
 	* themida/vmprotect hook NtProtectVirtualMemory
 	* and various other functions that make it 
@@ -26,7 +25,7 @@ void c_sdk::initialize()
 
 	print(_("patched ntdll.dll!NtProtectVirtualMemory"));
 
-	/*
+	/* 
 	* todo - @trailyy:
 	* make sure patterns are up
 	* to date with each version

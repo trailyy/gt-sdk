@@ -66,7 +66,7 @@ void on_inject(LPVOID param)
 
 BOOL APIENTRY DllMain(HMODULE module, DWORD reason, LPVOID param)
 {
-    // start learning nigga
+    // start learning homie
     // https://learn.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-disablethreadlibrarycalls
     DisableThreadLibraryCalls(module);
 
