@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+gt-internal/utils/crash_handler.hpp
+gt-internal/utils/crash_handler.cpp
+gt-internal/lib/xorstr/xorstr.hpp
